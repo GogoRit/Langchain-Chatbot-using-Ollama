@@ -6,7 +6,7 @@ This project demonstrates how to build a conversational AI chatbot using LangCha
 
 ### Preview Image
 
-![Preview Image](path/to/your/screenshot.png)
+![Preview Image](images/preview.png)
 
 ---
 
